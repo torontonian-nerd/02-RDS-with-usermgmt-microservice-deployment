@@ -1,5 +1,0 @@
-# Steps
-
-1. Create RDS DB in private subnet
-2. Create Kubernetes externalName service Manifest
-3. Deploy UserMgmt microservice
